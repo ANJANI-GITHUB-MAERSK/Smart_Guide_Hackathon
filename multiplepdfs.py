@@ -2,7 +2,8 @@
 
 # Name                 : Anjani Kumar
 # Date                 : 03/12/2024  
-# Dissertation Title   : Information Retrieval Chat Bot Using Generative AI & LLMs
+# Hackathon Title      : Smart Guide: "Intelligent Manual Retrieval System: 
+#                        AI-Powered Solution for Instant Access to Industrial Equipment Operation, Maintenance, and Troubleshooting Information
 
 # Import all the required libraries
 
