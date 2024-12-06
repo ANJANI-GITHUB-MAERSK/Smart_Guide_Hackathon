@@ -1,4 +1,4 @@
-# Chatbot for Information Retrieval
+# Smart Guide: "Intelligent Manual Retrieval System
 
 # Name                 : Anjani Kumar
 # Date                 : 03/12/2024  
